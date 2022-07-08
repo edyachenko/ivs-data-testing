@@ -1,0 +1,23 @@
+{
+  "div": 12,
+  "upc": 772004886,
+  "specificOp": null,
+  "events": {
+    "ceb": "Y"
+  },
+  "locations": [
+    9
+  ],
+  "fulfillmentTypes": {
+
+  },
+  "channels": [
+
+  ],
+  "eligibilityPriorities": [
+
+  ],
+  "thresholdPriorities": [
+
+  ]
+}
